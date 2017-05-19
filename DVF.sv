@@ -1,3 +1,4 @@
+//clock divider for sensor communication
 module DVF(
   input clk,rst,
   output reg clkout

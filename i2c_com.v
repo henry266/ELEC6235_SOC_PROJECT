@@ -1,3 +1,4 @@
+//this module is modified based on 3rd party IP
 module i2c_com(clock_i2c,//i2c clock 10khz
                rst,      //reset     
                ack,      

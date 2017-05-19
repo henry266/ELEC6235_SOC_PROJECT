@@ -1,3 +1,5 @@
+//this module is modified based on example in the book:
+//Embedded_SoPC_Design_with_Nios_II_Processor_and_Verilog_Examples
 //Digital interface controller
 module adc_dac(
   input wire clk,rst,  //50Mhz clk

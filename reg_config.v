@@ -1,3 +1,4 @@
+//this module is modified based on 3rd party IP
 module reg_config(
   input clk,rst,
   input i2c_sclk, //databus "sdin"

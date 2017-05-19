@@ -1,3 +1,4 @@
+//this module is modified based on 3rd party IP
 module temp(
 input clk,rst,
 inout Data,

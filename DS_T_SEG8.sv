@@ -1,4 +1,5 @@
 //this module is modified based on 3rd party IP
+//module for 7-segment display control
 module DHT_SEG8(
 input clk,rst,
 input[39:0] data,   // 40-bit humidity & temperature data
